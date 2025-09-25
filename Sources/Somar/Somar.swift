@@ -1,2 +1,5 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+import Foundation
+
+public func somar(a: Double, b: Double) -> Double {
+    return a + b
+}
