@@ -8,7 +8,7 @@ Para importar esse módulo, importe `https://github.com/raquelpds/Somar` pelo SP
 
 ```swift
 
-let resultado = somar(2.0, 3.0)
+let resultado = somar(2.0, 3.0) 
 
 print(resultado)
 
