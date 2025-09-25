@@ -2,7 +2,7 @@
 
 ## Instalação
 
-Para importar esse módulo, importe `URL` pelo SPM.
+Para importar esse módulo, importe `https://github.com/raquelpds/Somar` pelo SPM.
 
 ## Exemplo
 
